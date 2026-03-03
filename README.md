@@ -10,7 +10,7 @@ Methods:
 - Cross-correlation analysis
 
 Data:
-Processed meteorological datasets are included in the `data/` folder for reproducibility.
+Processed meteorological datasets are included in the `data/` folder.
 
 Tools:
 Python (NumPy, SciPy, Matplotlib)
